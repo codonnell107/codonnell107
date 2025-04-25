@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @codonnell107
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning to become a full stack web developer
+- 👋 Hi, I’m Christine O'Donnell
+- 👀 I'm a Front End Developer at Bank of Ireland
+- 🌱 I’m also dabbling in UX Design which I'm really enjoying
 - 💞️ I’m looking to collaborate on nothing yet, it's just for my own development
 - 📫 How to reach me ...
 
